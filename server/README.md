@@ -4,3 +4,5 @@
 
 - [ ] organization
 - [ ] projects
+- [ ] authorization
+- [ ] bugs
